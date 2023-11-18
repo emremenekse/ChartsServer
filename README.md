@@ -1,5 +1,5 @@
 # Personel Sales Tracking Application
-
+![Project ScreenShot](https://github.com/emremenekse/ChartsServer/blob/a7cc0caf95e80f5b6570d20918534d39d2ed3635/Chart.png)
 ## Overview
 This real-time Personnel Sales Tracking Application enables managers to monitor sales activities as they happen. Each sale entered into the database by a manager is instantly reflected on the salesperson's graph and broadcasted to all subscribers, allowing real-time tracking of the sales flow.
 
