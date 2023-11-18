@@ -1,4 +1,4 @@
-# Personnel Sales Tracking Application
+# Personel Sales Tracking Application
 
 ## Overview
 This real-time Personnel Sales Tracking Application enables managers to monitor sales activities as they happen. Each sale entered into the database by a manager is instantly reflected on the salesperson's graph and broadcasted to all subscribers, allowing real-time tracking of the sales flow.
